@@ -84,7 +84,7 @@ const messages = ref<messageLog[]>([
   padding: 0;
   margin: 0;
   text-align: left;
-  max-height: 200px;
+  height: 5rem;
   overflow: auto;
   font-family: monospace;
   scrollbar-width: thin;
